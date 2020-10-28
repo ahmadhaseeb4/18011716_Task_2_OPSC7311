@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "18011716_Task_2_OPSC7311"
